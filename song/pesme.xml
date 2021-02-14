@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Song type="QVariantMap">
+<Artist type="QString">Lady Gaga</Artist>
+<Title type="QString">Rain On Me</Title>
+<Album type="QString">Chromatica</Album>
+<Features type="QVariantList">
+<Feature type="QString">Ariana Grande</Feature>
+</Features>
+<Rating type="double">10.00</Rating>
+<Genres type="QVariantList">
+<Genre type="QString">Pop</Genre>
+<Genre type="QString">Dance</Genre>
+</Genres>
+<Year type="uint">2020</Year>
+</Song>

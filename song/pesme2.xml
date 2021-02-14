@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Song type="QVariantMap">
+    <Album type="QString">Chromatica</Album>
+    <Artist type="QString">Lady Gaga</Artist>
+    <Features type="QVariantList">
+        <Feature type="QString">Ariana Grande</Feature>
+    </Features>
+    <Genres type="QVariantList">
+        <Genre type="QString">Pop</Genre>
+        <Genre type="QString">Dance</Genre>
+    </Genres>
+    <Rating type="double">12345</Rating>
+    <Year type="uint">2020</Year>
+</Song>
